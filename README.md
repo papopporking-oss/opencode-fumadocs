@@ -44,3 +44,4 @@ resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 - [Fumadocs](https://fumadocs.dev) - learn about Fumadocs
 # opencode-fumadocs
+# opencode-fumadocs
